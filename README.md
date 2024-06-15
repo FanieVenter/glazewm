@@ -1,0 +1,2 @@
+# glazewm
+My glazewm config
